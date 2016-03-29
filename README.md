@@ -2,6 +2,7 @@
 Asynchronous logger using Gearman
 
 ## References:
+- <https://github.com/wcgallego/pecl-gearman/>
 - <http://php.net/manual/en/gearman.examples-reverse-bg.php>
 - <http://php.net/manual/en/gearman.examples-reverse-bg.php>
 - <http://gearman.org/download/#php>
