@@ -4,7 +4,6 @@ Asynchronous logger using Gearman
 ## References:
 - <https://github.com/wcgallego/pecl-gearman/>
 - <http://php.net/manual/en/gearman.examples-reverse-bg.php>
-- <http://php.net/manual/en/gearman.examples-reverse-bg.php>
 - <http://gearman.org/download/#php>
 - <https://pecl.php.net/package/gearman>
 - <http://hermanradtke.com/2011/08/20/gearman-worker-exception-handling-in-php.html>
