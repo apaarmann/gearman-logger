@@ -1,0 +1,6 @@
+{
+  "name": "Gearman-logger",
+  "tagline": "Asynchronous logger using Gearman",
+  "body": "# gearman-logger\r\nAsynchronous logger using Gearman\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
