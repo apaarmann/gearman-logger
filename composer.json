@@ -1,0 +1,20 @@
+{
+  "name": "apaar/gearman-logger",
+  "description": "Asynchronous logger using Gearman",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Apaar Mann",
+      "email": "apaar@apaarmann.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Apaar\\Gearman\\" : "src/"
+    }
+  },
+  "require": {
+    "ext-gearman": "*"
+  }
+}
