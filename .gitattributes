@@ -1,0 +1,22 @@
+# Let git detect and normalize all (text) files to LF on remote
+# This setting will override core.autocrlf
+* 		text=auto
+
+# Specify which file to be determined by git as text files for normalization
+*.txt 	text
+*.php 	text diff=php
+*.js 	text
+*.sql 	text
+*.html 	text diff=html
+
+# Denote all files that are truly binary and should not be modified.
+*.png 	binary
+*.jpg 	binary
+*.jpeg 	binary
+*.gif 	binary
+*.bmp 	binary
+*.ico 	binary
+
+# Specify that all .sh files will be normalized and have LF endings in working directory
+*.sh 	text eol=lf
+*.bat   -text eol=crlf
